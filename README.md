@@ -21,11 +21,10 @@ Data:
 * **example__point.rds**: An example tibble containing values over points. Useful for experimenting with custom plot functions.
 * **example__polygon.rds**: An example tibble containing values extracted over polygons. Useful for experimenting with custom plot functions.
 
-
 Guides:
 * **rtsVis_Overview.html**: An overview of the rtsVis package.
 * **rtsVis_Custom_Plots.html**: A guide on the creation of custom plotting functions.
 
 
-<img src="Images/WesternCape_MODIS_point_lowres.gif" align="center" src="https://github.com/JohMast/rtsVis_demo/blob/main/Images/WesternCape_MODIS_point_lowres.gif">
+<img src="Images/WesternCape_MODIS_point_lowfps.gif" align="center" src="https://github.com/JohMast/rtsVis_demo/blob/main/Images/WesternCape_MODIS_point_lowfps.gif">
 
