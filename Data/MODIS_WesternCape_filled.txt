@@ -1,0 +1,20 @@
+Data in .rds format containing 154 raster objects of:
+MODIS:
+	 MCD43A4 product.
+Bands:
+	1,2,3,4
+Acquisition:
+	2019.07.01 to 2019.12.01
+Area:
+	Western Cape of South Africa.
+Source:
+	LAADS DAAC
+Citation:
+	Crystal Schaaf - University of Massachusetts Boston, Zhuosen Wang - NASA GSFC and MODAPS SIPS - NASA. (2015). MCD43A4 		MODIS/Terra+Aqua Nadir BRDF-Adjusted Refelctance Daily L3 Global - 500m. NASA LP DAAC. 	http://doi.org/10.5067/MODIS/MCD43A4.006
+
+Comments:	
+	The data was preprocessed using rtsVis::ts_fill_na() to fill gaps.	
+
+Download Link:
+	https://gigamove.rz.rwth-aachen.de/download/id/bQzC35oh8aG8pM
+	Should the link be expired, contact the repo author.
