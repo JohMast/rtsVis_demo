@@ -3,7 +3,7 @@
 ## Introduction
 
 `rtsVis`is a lightweight `R` package to visualize large raster time series, building on a fast temporal interpolation core.
-This repository contains 
+This repository contains a demonstration of the packages functionalities.
 
 ## Installation
 
