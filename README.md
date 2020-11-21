@@ -29,5 +29,5 @@ This repository contains data needed to get started with rtsVis.
     * **rtsVis_Custom_Plots.html**: A guide on the creation of custom plotting functions.
 * **Images**: Examples of Image Files created by rtsVis, as demonstrated in the demo_script.
 
-<img src="Images/WesternCape_MODIS_violin_lowres.gif" align="center" src="https://github.com/JohMast/rtsVis_demo/blob/main/Images/WesternCape_MODIS_violin_lowres.gif">
+<img src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif" align="center" src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif">
 
