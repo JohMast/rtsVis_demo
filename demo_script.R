@@ -117,7 +117,7 @@ poly_joined<- moveVis::join_frames(frames_lists = list(r_frames_with_polygons,vi
 
 #### Step 6 : Animating Frames ####
 
-moveVis::animate_frames(point_joined[seq(1,length(point_joined),4)],
-                        out_file = "Images/WesternCape_MODIS_point_lowfps.gif",
+moveVis::animate_frames(point_joined,
+                        out_file = "Images/WesternCape_MODIS_point.gif",
                         end_pause = T,width=1600)
 
