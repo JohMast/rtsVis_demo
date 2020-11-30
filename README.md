@@ -10,7 +10,7 @@ This repository contains a demonstration of the packages functionalities.
 The latest version of the package can be installed from github. 
 
 ```r
-devtools::install_github("16EAGLE/rtsVis")
+devtools::install_github("JohMast/rtsVis")
 ```
 
 ## Contents
