@@ -16,7 +16,7 @@ devtools::install_github("JohMast/rtsVis")
 ## Contents
 This repository contains data needed to get started with rtsVis.
 
-* **demo_script.R**: 
+* **demo_script.R**: A script demonstrating the basic usage of the packages main functions.
 * **Data**:
     * **Western_Cape_polygons.shp**: Selected Polygons within a AOI in South Africa.
     * **Western_Cape_pts.shp**: Selected points within a AOI in South Africa.
