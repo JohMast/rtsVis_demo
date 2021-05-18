@@ -1,6 +1,6 @@
 # rtsVis demo script
 # Author: https://github.com/JohMast
-# 21.11.2020
+# 18.05.2021
 
 library(rtsVis)
 library(raster)
@@ -9,10 +9,11 @@ library(moveVis)
 library(magrittr) 
 library(ggplot2)
 
+
 #### Step 1 : Getting the data ####
 
 #download.file("https://gigamove.rz.rwth-aachen.de/d/id/TDEtwH5y5GwMNS/dd/100","Data/MODIS_WesternCape_filled.rds")
-r_list_filled <- readRDS("Data/MODIS_WesternCape_filled.rds")
+r_list_filled <- readRDS("../Beispieldaten/MODIS/WesternCape/MODIS_WesternCape_filled.rds")
 
 # png(filename = "Images/R_filled_Example.png",width = 6,height = 6,units = "in",res = 200)
 # plotRGB(r_list_filled[[20]],1,4,3,stretch="lin")
@@ -29,9 +30,9 @@ out_dates <-seq.POSIXt(from = in_dates[1],
 #Interpolate
 
 r_list_filled_interpolated <-  ts_raster(r_list = r_list_filled,
-                                          r_times = in_dates,
-                                          out_times = out_dates,
-                                          fade_raster = T)
+                                         r_times = in_dates,
+                                         out_times = out_dates,
+                                         fade_raster = T)
 
 #### Step 3 : Flow Frames ####
 
@@ -120,4 +121,3 @@ poly_joined<- moveVis::join_frames(frames_lists = list(r_frames_with_polygons,vi
 moveVis::animate_frames(point_joined,
                         out_file = "Images/WesternCape_MODIS_point.gif",
                         end_pause = T,width=1600)
-
