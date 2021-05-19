@@ -39,4 +39,9 @@ This repository contains data needed to get started with rtsVis.
 
 <img src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif" align="center" src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif">
 
-<img src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/example_ts_gg_bar.png" align="center" src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif">
+<img src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/example_ts_gg_bar_stack.png" align="center" src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif" width="200"><img src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/example_ts_gg_bar_fill.png" align="center" src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif" width="200"><img src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/example_ts_gg_dens.png" align="center" src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif" width="200">
+
+<img src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/example_ts_gg_dens2.png" align="center" src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif" width="200"><img src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/example_ts_gg_line2.png" align="center" src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif" width="200"><img src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/example_ts_gg_vio.png" align="center" src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif" width="200">
+
+
+<img src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/example_ts_gg_pie.png" align="center" src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif" width="600">
