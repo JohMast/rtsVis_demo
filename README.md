@@ -39,3 +39,4 @@ This repository contains data needed to get started with rtsVis.
 
 <img src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif" align="center" src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif">
 
+<img src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/example_ts_gg_bar.png" align="center" src="https://github.com/JohMast/rtsVis_demo/raw/main/Images/WesternCape_MODIS_point_lowres.gif">
