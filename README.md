@@ -9,6 +9,12 @@ This repository contains a demonstration of the packages functionalities.
 
 ## Installation
 
+The released version of rtsVis can be installed from CRAN:
+```r
+install.packages("rtsVis")
+```
+
+
 The latest version of the package can be installed from github. 
 
 ```r
